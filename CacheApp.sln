@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheApp", "CacheApp\CacheApp.csproj", "{BFC92C07-1011-43E9-880F-3C019FE4F75D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{4EE53B3D-B574-4F43-84C8-1347EBB70A30}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccLocalPath0 = .
+		SccLocalPath1 = Business
+		SccLocalPath2 = CacheApp
+		SccNumberOfProjects = 3
+		SccProjectName1 = Business
+		SccProjectName2 = CacheApp
+		SccProjectUniqueName1 = Business\\Business.csproj
+		SccProjectUniqueName2 = CacheApp\\CacheApp.csproj
+		SccTeamFoundationServer = https://anselme.tfspreview.com/defaultcollection
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE53B3D-B574-4F43-84C8-1347EBB70A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE53B3D-B574-4F43-84C8-1347EBB70A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE53B3D-B574-4F43-84C8-1347EBB70A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE53B3D-B574-4F43-84C8-1347EBB70A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC92C07-1011-43E9-880F-3C019FE4F75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC92C07-1011-43E9-880F-3C019FE4F75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC92C07-1011-43E9-880F-3C019FE4F75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC92C07-1011-43E9-880F-3C019FE4F75D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
